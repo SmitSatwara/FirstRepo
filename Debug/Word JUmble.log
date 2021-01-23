@@ -1,0 +1,6 @@
+﻿  Word JUmble.cpp
+D:\VS_CPP_PROJECTS\Word JUmble\Word JUmble.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS_CPP_PROJECTS\Word JUmble\Word JUmble.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS_CPP_PROJECTS\Word JUmble\Word JUmble.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS_CPP_PROJECTS\Word JUmble\Word JUmble.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  Word JUmble.vcxproj -> D:\VS_CPP_PROJECTS\Word JUmble\Debug\Word JUmble.exe

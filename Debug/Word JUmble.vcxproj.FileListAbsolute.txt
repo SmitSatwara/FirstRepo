@@ -1,0 +1,2 @@
+D:\VS_CPP_PROJECTS\Word JUmble\Debug\Word JUmble.exe
+D:\VS_CPP_PROJECTS\Word JUmble\Debug\Word JUmble.pdb
